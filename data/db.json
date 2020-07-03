@@ -29,6 +29,12 @@
       "first_name": "Sebastian",
       "last_name": "Eschweiler",
       "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 6,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
     }
   ]
 }

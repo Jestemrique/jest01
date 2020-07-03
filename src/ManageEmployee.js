@@ -2,7 +2,7 @@ const Employee = require('./Employee');
 
 (async () => {
   const employeeInfo = {
-    id: 5,
+    id: 6,
     first_name: 'Sebastian',
     last_name: 'Eschweiler',
     email: 'sebastian@codingthesmartway.com',
